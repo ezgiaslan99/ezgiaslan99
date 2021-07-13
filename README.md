@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Phyton programming, C# programming, game development.
 - 📫 How to reach me: 
               e-mail: ezgiiiaslannn9.ea@gmail.com
-              LinkedIn: https://www.linkedin.com/in/ezgi-aslan/
+              LinkedIn: https://www.linkedin.com/in/ezgi-aslan
